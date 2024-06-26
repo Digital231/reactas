@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactas/static/css/main.18fd5787.css",
+    "main.js": "/reactas/static/js/main.66bb0c1a.js",
+    "index.html": "/reactas/index.html",
+    "main.18fd5787.css.map": "/reactas/static/css/main.18fd5787.css.map",
+    "main.66bb0c1a.js.map": "/reactas/static/js/main.66bb0c1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18fd5787.css",
+    "static/js/main.66bb0c1a.js"
+  ]
+}
